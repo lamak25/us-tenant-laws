@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "US Landlord-Tenant Law Dataset (50 States + DC)"
+type: dataset
+version: "2026-10-22"
+date-released: "2026-10-22"
+license: CC-BY-4.0
+url: "https://redflaglease.com/data"
+repository-code: "https://github.com/lamak25/us-tenant-laws"
+abstract: "Statewide landlord-tenant rules for 50 US states and DC (security deposits, late fees, landlord entry, month-to-month termination, rent increases and rent control, retaliation), each with a statute citation and source link."
+keywords:
+  - tenant law
+  - landlord
+  - security deposit
+  - housing
+  - US states
+authors:
+  - name: "RedFlagLease"
+    website: "https://redflaglease.com"
